@@ -1,5 +1,5 @@
 - 👋 Hello, there! I’m @CGC-98, which stands for "Caíque Gama Correia" and "1998".
 - 👀 I’m interested in many things, and also uninterested in many others. I'd say learning is a passion and a curse, so bring it in!
-- 🌱 I’m currently learning Web Development at Trybe Course. Excitment is only the begining of how I'm feeling about it.
-- 💞️ I’m looking to collaborate on my personal and professional life first. Only then I can say I'll be able to make some difference.
-- 📫 How to reach me... That's a good question! I'll let you know when I figure out ~
+- 🌱 I’m currently learning Web Development at Trybe Course. Excitement is only the beginning of how I'm feeling about it.
+- 💞️ I’m looking to collaborate on my personal and professional life first. Only then can I say I'll be able to make some difference.
+- 📫 How to reach me... That's a good question! I'll let you know once I figure it out ~
