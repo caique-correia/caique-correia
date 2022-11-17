@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Web Development at Trybe Course. Excitement is only the beginning of how I'm feeling about it.
 - 💞️ I’m looking to collaborate on my personal and professional life first. Only then can I say I'll be able to make some difference.
 - 📫 How to reach me... That's a good question!
-  * Email: caiquecorreia.gama@hotmail.com
+  * caiquecorreia.gama@hotmail.com
   * [Linkedin](https://www.linkedin.com/feed/)
