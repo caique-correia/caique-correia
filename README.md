@@ -7,9 +7,9 @@
   * [Linkedin](https://www.linkedin.com/in/caique-correia/)
 
 <div align="center">
-  <a href="https://github.com/CGC-98">
-  <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CGC-98&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CGC-98&layout=compact&langs_count=7&theme=onedark"/>
+  <a href="https://github.com/caique-correia">
+  <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=caique-correia&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=caique-correia&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div>
  <h4>Platforms and OS:</h4>
